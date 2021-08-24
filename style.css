@@ -52,6 +52,7 @@ li {
     font-family: 'Patrick Hand', cursive;
     font-family: 'Play', sans-serif;
 }
+
 @media screen and (max-width: 670px) {
     body{
         margin-top: 50px;
